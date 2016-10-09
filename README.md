@@ -15,8 +15,11 @@ $ git clone https://github.com/vbernabe/wordpress-workshop.git wordpress-worksho
 3. Enter your database details, click Test Connection and check "I have read all warnings & notices"
 4. Click Run Deployment
 5. On this Step, the settings of your site url should already be correct. 
+
    WP Admin username: wp-user-workshop
+   
    WP Admin password: password123
    
    MySQL username: root
+   
    MySQL password: password123
