@@ -21,6 +21,3 @@ $ git clone https://github.com/vbernabe/wordpress-workshop.git wordpress-worksho
    
    WP Admin password: password123
    
-   MySQL username: root
-   
-   MySQL password: password123
